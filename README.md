@@ -66,8 +66,8 @@ I'm a **Full Stack Web Developer** with a growth mindset and a relentless passio
 ## 📫 How to Reach Me
 
 - **GitHub**: [@AyanAnsarii91](https://github.com/AyanAnsarii91)
-- **LinkedIn**: *(Add your profile here)*
-- **Email**: *(Your professional email)*
+- **LinkedIn**: https://in.linkedin.com/in/ayan-ansari-156983227
+- **Email**: ayancoder786@gmail.com
 
 ---
 
