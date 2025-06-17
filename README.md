@@ -1,4 +1,4 @@
-# Hey there, I’m Ayan Ansari — aka @AyanAnsarii91
+Hi, I’m Ayan Ansari (@AyanAnsarii91) — MERN Stack Developer | AI Integrator for Web & Mobile Apps
 
 Welcome to my digital space!
 
